@@ -1,0 +1,22 @@
+.selected{
+    text-decoration: underline;
+    text-underline-position: under;
+}
+
+.card-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.custom-card{
+    width: 18rem;
+}
+.custom-card .card_image{
+    height: 24rem;
+}
+
+.containet_form{
+    display: flex;
+    justify-content: center;
+    margin: 120px;
+}
